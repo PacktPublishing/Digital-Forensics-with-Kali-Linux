@@ -19,3 +19,7 @@ All of the code is organized into folders. For example, Chapter07.
 * [Kali Linux Wireless Penetration Testing Beginner’s Guide - Third Edition](https://www.packtpub.com/networking-and-servers/kali-linux-wireless-penetration-testing-beginner%E2%80%99s-guide-third-edition?utm_source=github&utm_medium=repository&utm_campaign=9781788831925)
 * [Mastering Linux Security and Hardening](https://www.packtpub.com/networking-and-servers/mastering-linux-security-and-hardening?utm_source=github&utm_medium=repository&utm_campaign=9781788620307)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781788625005">https://packt.link/free-ebook/9781788625005 </a> </p>
